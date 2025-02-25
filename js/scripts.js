@@ -99,7 +99,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I am A Software Engineer.", "I Develop Software", "Spcially Web Based Software"],    /* You can change the home section typing text from
+            strings: ["I am a Data Science Engineer, transforming raw data into valuable insights.", "I Build Intelligent Data-Driven Solutions.", "Specialized in Machine Learning, AI, and Big Data Analytics."],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
